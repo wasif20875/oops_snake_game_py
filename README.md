@@ -5,5 +5,5 @@
 <li>Food.py takes care of position of food on the screen. Main.py draws the snake using turtle and has a function to increase speed of the snake.</li>
 <li>The shape and color of food as well as color of snake changes when ever a new game is started.</li>
 </ol>
-###Rules:
+### Rules:
 <li>Snake dies if it bites itself and the snake comes form other side of the screen when it goes out of it.</li>
