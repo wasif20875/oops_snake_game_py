@@ -7,3 +7,5 @@
 </ol>
 <h3>Rules:</h3>
 <li>Snake dies if it bites itself and the snake comes form other side of the screen when it goes out of window.</li>
+<h3>Note:</h3>
+<li>All the files should be in the same directory to run main.py.</li>
