@@ -6,4 +6,4 @@
 <li>The shape and color of food as well as color of snake changes when ever a new game is started.</li>
 </ol>
 <h3>Rules:</h3>
-<li>Snake dies if it bites itself and the snake comes form other side of the screen when it goes out of it.</li>
+<li>Snake dies if it bites itself and the snake comes form other side of the screen when it goes out of window.</li>
